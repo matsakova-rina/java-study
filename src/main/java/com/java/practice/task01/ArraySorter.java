@@ -14,7 +14,6 @@ public class ArraySorter {
         }
     }
 
-    // todo fix method
     public void bubbleSortWithWhile(int[] array) {
         boolean isSorted = true;
 
